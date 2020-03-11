@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "个人blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upgrace/upgrace.github.io.git"
+  },
+  "author": "joly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upgrace/upgrace.github.io/issues"
+  },
+  "homepage": "https://github.com/upgrace/upgrace.github.io#readme"
+}
